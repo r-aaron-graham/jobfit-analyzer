@@ -1,1 +1,5 @@
 textblob>=0.17.1
+beautifulsoup4
+requests
+selenium
+apscheduler
